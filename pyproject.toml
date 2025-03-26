@@ -1,0 +1,9 @@
+[project]
+name = "mcp-server"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "openai",
+    "python-dotenv"
+]
